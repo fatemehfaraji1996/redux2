@@ -1,24 +1,13 @@
 
-
 function Backgrand(params) {
     return(
 
 <>
 
-{/* <div class="container text-center"> */}
-  
-<img style='with:500px' src="https://thegardengeeks.com/wp-content/uploads/2024/04/Do_Aloe_Vera_Plants_Bloom.webp" alt="" />
-{/* </div> */}
-
-
-
-{/*  */}
-
+<div class="container text-center">
+<img className="imagebackgrand" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBLRWOpTRvdBwxgPA-ME955i1tsoVhvm3Yrw&s" alt="" />
+</div>
 </>
-
-
-
-
     )
 }
 export default Backgrand
