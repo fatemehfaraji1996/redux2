@@ -3,6 +3,8 @@
     height: 700px;
 }
 .parent{
+    /* margin: 60px; */
+    padding: 60px;
     background-image: url("./components/image/hero-bg.jpg");
     background-size: cover;
     background-position: center;
@@ -12,3 +14,7 @@
         z-index: 100;
 
     }
+.logoaps{
+    height: 50px;
+    width: 50px;
+}
