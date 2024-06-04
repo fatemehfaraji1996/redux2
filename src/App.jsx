@@ -5,9 +5,8 @@ import Backgrand from './components/backgrand'
 function App() {
   
   return (
-    // <Nav/>
-<Backgrand/>
-    
+//  <Backgrand/> 
+    <Nav/>
   )
 }
 

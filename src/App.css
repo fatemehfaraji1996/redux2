@@ -1,4 +1,14 @@
 .imagebackgrand{
     width: 100%;
     height: 700px;
+}
+.parent{
+    background-image: url("./components/image/hero-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 800px;
+        position: relative;
+        z-index: 100;
+
     }
