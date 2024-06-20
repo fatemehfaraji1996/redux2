@@ -32,9 +32,14 @@ function Nav() {
 </nav>
   </div>
 </nav>
-
-
+{/* end nav */}
+<div className="parentP">
+<p>Best Quality Plants</p>
+<h1>Amazing Variety <br /> Of Plants Starting <br /> Just $12</h1>
+<button type="button" class="btn btn-danger">Danger</button>
+</div>
         </div>
+
         </>
     )
 }

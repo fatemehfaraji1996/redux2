@@ -1,13 +1,16 @@
 import { useState } from 'react'
 import './App.css'
 import Nav from './components/nav'
-import Backgrand from './components/backgrand'
+import Flowers from './components/flowers'
 function App() {
-  
   return (
-//  <Backgrand/> 
+    <>
+
     <Nav/>
+    <Flowers/>
+    </>
   )
+    
 }
 
 export default App
